@@ -26,5 +26,5 @@ function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
 
 function destructivelyDeleteFromObjectByKey(object, key) {
   var object = delete object2[key]
-  
+
 }
