@@ -23,3 +23,8 @@ function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
     var object3 = delete object2[key]
     return object3
   }
+
+function destructivelyDeleteFromObjectByKey(object, key) {
+  var object = delete object2[key]
+  
+}
